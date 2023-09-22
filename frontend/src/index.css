@@ -176,3 +176,16 @@ justify-content: center;
         width: 100%;
     }
 }
+
+.create-acc{
+font-size: 18px !important;
+font-weight: normal ;
+}
+
+.create-acc a{
+    text-decoration: underline !important;
+}
+
+.login-btn{
+    margin: 20px 0;
+}
